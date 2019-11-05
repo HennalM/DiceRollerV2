@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="msg" type="id" />
+    <item name="numberEntered" type="id" />
+    <item name="counterv" type="id" />
+    <item name="count" type="id" />
+</resources>
