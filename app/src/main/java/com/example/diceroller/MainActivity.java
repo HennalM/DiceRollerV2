@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
 
         Random r = new Random();
 
-        number = r.nextInt((6 - 1) + 1) +1;
+        number = r.nextInt((6 )) +1;
 
         tv.setText(Integer.toString(number));
 
